@@ -15,7 +15,7 @@ e di specificare una scelta numerica.
 - Se il numero inserito è 2, la stringa verrà stampata su stderr.
 
 Il programma continua a chiedere di inserire stringhe, fintanto che non viene
-specificata la stringa [fine] (comprensiva di parentesi quadre), che determina la fine
+specificata la stringa \[fine\] (comprensiva di parentesi quadre), che determina la fine
 del programma.
 
 1. Eseguire il programma da riga di comando senza alcun parametro.
