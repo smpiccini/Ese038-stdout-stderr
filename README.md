@@ -23,5 +23,5 @@ del programma.
 e notare il contenuto del file `output.txt`
 3. Eseguire il programma da riga di comando con `./ese038-stdout-stderr.exe 2>error.txt`
 e notare il contenuto del file `error.txt`
-4. Eseguire il programma da riga di comando ./ese038-stdout-stderr.exe &>entrambi.txt`
+4. Eseguire il programma da riga di comando `./ese038-stdout-stderr.exe &>entrambi.txt`
 e notare il contenuto del file `entrambi.txt`
